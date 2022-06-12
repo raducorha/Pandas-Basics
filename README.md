@@ -1,4 +1,4 @@
 # Pandas-Basics
 Intro to Pandas &amp; Learning 
 
-Student documenting learn process using pandas,matplotlib, etc
+Student documenting learning process using pandas,matplotlib, etc
